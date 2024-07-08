@@ -2417,7 +2417,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abcfc9e02ccc21341b671052a5391282, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _AnimationSpeed: 1
+  _AnimationSpeed: 0.2
   ExitOnNewPagePush: 0
   EnableOnCancel: 1
   _EntryClip: {fileID: 0}
@@ -9573,7 +9573,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abcfc9e02ccc21341b671052a5391282, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _AnimationSpeed: 1
+  _AnimationSpeed: 0.2
   ExitOnNewPagePush: 0
   EnableOnCancel: 1
   _EntryClip: {fileID: 0}
