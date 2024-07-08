@@ -85,7 +85,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 453536e613d8a3847beda9a9e6827811, type: 2}
   - {fileID: 11400000, guid: b68bd6c98f1abf243929886b9662dd4a, type: 2}
   - {fileID: 11400000, guid: d5177e22e4c2d87459376b8314feba34, type: 2}
-  <Health>k__BackingField: 10
+  <Health>k__BackingField: 2.5
   <TimeToImmortalAfterDamaged>k__BackingField: 1.5
   <EmissionCurve>k__BackingField:
     serializedVersion: 2

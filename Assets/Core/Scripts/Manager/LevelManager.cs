@@ -26,7 +26,7 @@ public class LevelManager : MonoBehaviour
     public void SetTargetRoom(Room room) => targetRoom = room;
 
     public float GetPlayerHealth(float maxHealth) {
-        if (currentPlayerHealth == -1)
+        if (currentPlayerHealth == 0)
         {
             HealthController.Instance.Initialize(maxHealth);
             return maxHealth;
@@ -47,7 +47,7 @@ public class LevelManager : MonoBehaviour
 
     private Dictionary<Vector2Int, bool> visited = new Dictionary<Vector2Int, bool>();
     private int currentZone = 0;
-    private float currentPlayerHealth = -1;
+    private float currentPlayerHealth = 0;
 
 
     private void Awake()
@@ -72,7 +72,7 @@ public class LevelManager : MonoBehaviour
         PrevBlock = Vector2Int.zero;
         targetRoom = null;
         currentZone = 0;
-        currentPlayerHealth = -1;
+        currentPlayerHealth = 0;
     }
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)

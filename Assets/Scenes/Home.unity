@@ -2469,7 +2469,7 @@ PrefabInstance:
     - target: {fileID: 3300271383874158121, guid: 553c9484489308648843cc5ba201f19a,
         type: 3}
       propertyPath: m_MaxBlock
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3300271383874158121, guid: 553c9484489308648843cc5ba201f19a,
         type: 3}
@@ -2484,12 +2484,12 @@ PrefabInstance:
     - target: {fileID: 3300271383874158121, guid: 553c9484489308648843cc5ba201f19a,
         type: 3}
       propertyPath: m_MaxSegment
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3300271383874158121, guid: 553c9484489308648843cc5ba201f19a,
         type: 3}
       propertyPath: m_MinSegment
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6230109496310712477, guid: 553c9484489308648843cc5ba201f19a,
         type: 3}
