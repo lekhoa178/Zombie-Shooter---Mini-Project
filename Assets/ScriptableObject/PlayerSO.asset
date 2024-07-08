@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f88259f055c4e4b916410ceb3b1538, type: 3}
+  m_Name: PlayerSO
+  m_EditorClassIdentifier: 
+  <GroundedData>k__BackingField:
+    <BaseSpeed>k__BackingField: 5
+    <GroundToFallRayDistance>k__BackingField: 3
+    <SlopeSpeedAngle>k__BackingField:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: -0.016666668
+        outSlope: -0.016666668
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 15
+        value: 0.75
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 55.1
+        value: 0.4
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 65.1
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 1
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 90
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    <BaseRotationData>k__BackingField:
+      <TargetRotationReachTime>k__BackingField: {x: 0, y: 0.14, z: 0}
+    <RunData>k__BackingField:
+      <speedModifier>k__BackingField: 1
+    <WalkData>k__BackingField:
+      <speedModifier>k__BackingField: 0.225
+    <SprintData>k__BackingField:
+      <SpeedModifier>k__BackingField: 1.75
+      <SprintToRunTime>k__BackingField: 1
+      <RunToWalkTime>k__BackingField: 0.5
+    <DashData>k__BackingField:
+      <SpeedModifier>k__BackingField: 2.5
+      <RotationData>k__BackingField:
+        <TargetRotationReachTime>k__BackingField: {x: 0, y: 0.02, z: 0}
+      <TimeToSprint>k__BackingField: 0.2
+  <Weapons>k__BackingField:
+  - {fileID: 11400000, guid: 453536e613d8a3847beda9a9e6827811, type: 2}
+  - {fileID: 11400000, guid: b68bd6c98f1abf243929886b9662dd4a, type: 2}
+  - {fileID: 11400000, guid: d5177e22e4c2d87459376b8314feba34, type: 2}
+  <Health>k__BackingField: 10
+  <TimeToImmortalAfterDamaged>k__BackingField: 1.5
+  <EmissionCurve>k__BackingField:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -4.730947
+      outSlope: -4.730947
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.07736805
+      value: 0.63397586
+      inSlope: -0.236099
+      outSlope: -0.236099
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1576898
+      value: 0.976046
+      inSlope: -0.0953655
+      outSlope: -0.0953655
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.39258823
+    - serializedVersion: 3
+      time: 0.22830534
+      value: 0.6406423
+      inSlope: 0.0069823093
+      outSlope: 0.0069823093
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.16712083
+    - serializedVersion: 3
+      time: 0.33414575
+      value: 0.96226907
+      inSlope: 0.037233923
+      outSlope: 0.037233923
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.24057111
+    - serializedVersion: 3
+      time: 0.39893723
+      value: 0.65730304
+      inSlope: 0.036765747
+      outSlope: 0.036765747
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.4994738
+      value: 0.96100736
+      inSlope: 0.11579398
+      outSlope: 0.11579398
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.4019057
+    - serializedVersion: 3
+      time: 0.5993896
+      value: 0.68627423
+      inSlope: 0.0685915
+      outSlope: 0.0685915
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.7107098
+      value: 0.9519104
+      inSlope: -0.018756634
+      outSlope: -0.018756634
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.81513375
+    - serializedVersion: 3
+      time: 0.8433832
+      value: 0.7441054
+      inSlope: 0.047054347
+      outSlope: 0.047054347
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1.6338898
+      outSlope: 1.6338898
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

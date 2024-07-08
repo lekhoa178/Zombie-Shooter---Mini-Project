@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7b7ecd01f5206a469096dfe1d88b896, type: 3}
+  m_Name: MeleeSO-1
+  m_EditorClassIdentifier: 
+  <GroundedData>k__BackingField:
+    <BaseSpeed>k__BackingField: 120
+    <GroundToFallRayDistance>k__BackingField: 2
+    <SlopeSpeedAngle>k__BackingField:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    <BaseRotationData>k__BackingField:
+      <TargetRotationReachTime>k__BackingField: {x: 0, y: 0, z: 0}
+    <RunData>k__BackingField:
+      <speedModifier>k__BackingField: 0.225
+    <WalkData>k__BackingField:
+      <speedModifier>k__BackingField: 0.225
+    <SprintData>k__BackingField:
+      <SpeedModifier>k__BackingField: 2
+      <SprintToRunTime>k__BackingField: 1
+      <RunToWalkTime>k__BackingField: 0.5
+    <DashData>k__BackingField:
+      <SpeedModifier>k__BackingField: 2.225
+      <RotationData>k__BackingField:
+        <TargetRotationReachTime>k__BackingField: {x: 0, y: 0, z: 0}
+      <TimeToSprint>k__BackingField: 0.2
+  <EnemyType>k__BackingField: 0
+  <Weapons>k__BackingField: []
+  <Health>k__BackingField: 2
+  <SqrDstToChase>k__BackingField: 100
+  <SqrDstToAttack>k__BackingField: 1
+  <Acceleration>k__BackingField: 40
+  <IdleMovementSpeedModifer>k__BackingField: 0.05

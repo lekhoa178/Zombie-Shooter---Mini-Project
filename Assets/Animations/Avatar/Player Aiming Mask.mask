@@ -1,0 +1,1273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Aiming Mask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: _Pt_Foot
+    m_Weight: 1
+  - m_Path: _Pt_Hand
+    m_Weight: 1
+  - m_Path: _Pt_Head
+    m_Weight: 1
+  - m_Path: Nendoroid_A
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_index01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_index01.L/bn_index02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_index01.L/bn_index02.L/bn_index03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_index01.L/bn_index02.L/bn_index03.L/bn_index03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_index01.L/bn_index02.L/bn_index03.L/bn_index03.L_end/bn_index03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_middle01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_middle01.L/bn_middle02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_middle01.L/bn_middle02.L/bn_middle03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_middle01.L/bn_middle02.L/bn_middle03.L/bn_middle03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_middle01.L/bn_middle02.L/bn_middle03.L/bn_middle03.L_end/bn_middle03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_pinky01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_pinky01.L/bn_pinky02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_pinky01.L/bn_pinky02.L/bn_pinky03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_pinky01.L/bn_pinky02.L/bn_pinky03.L/bn_pinky03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_pinky01.L/bn_pinky02.L/bn_pinky03.L/bn_pinky03.L_end/bn_pinky03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_ring01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_ring01.L/bn_ring02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_ring01.L/bn_ring02.L/bn_ring03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_ring01.L/bn_ring02.L/bn_ring03.L/bn_ring03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_ring01.L/bn_ring02.L/bn_ring03.L/bn_ring03.L_end/bn_ring03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_thumb01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_thumb01.L/bn_thumb02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_thumb01.L/bn_thumb02.L/bn_thumb03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_thumb01.L/bn_thumb02.L/bn_thumb03.L/bn_thumb03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.L/bn_upperarm.L/bn_forearm01.L/bn_forearm02.L/bn_hand.L/bn_thumb01.L/bn_thumb02.L/bn_thumb03.L/bn_thumb03.L_end/bn_thumb03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_index01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_index01.R/bn_index02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_index01.R/bn_index02.R/bn_index03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_index01.R/bn_index02.R/bn_index03.R/bn_index03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_index01.R/bn_index02.R/bn_index03.R/bn_index03.R_end/bn_index03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_middle01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_middle01.R/bn_middle02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_middle01.R/bn_middle02.R/bn_middle03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_middle01.R/bn_middle02.R/bn_middle03.R/bn_middle03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_middle01.R/bn_middle02.R/bn_middle03.R/bn_middle03.R_end/bn_middle03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_pinky01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_pinky01.R/bn_pinky02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_pinky01.R/bn_pinky02.R/bn_pinky03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_pinky01.R/bn_pinky02.R/bn_pinky03.R/bn_pinky03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_pinky01.R/bn_pinky02.R/bn_pinky03.R/bn_pinky03.R_end/bn_pinky03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_ring01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_ring01.R/bn_ring02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_ring01.R/bn_ring02.R/bn_ring03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_ring01.R/bn_ring02.R/bn_ring03.R/bn_ring03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_ring01.R/bn_ring02.R/bn_ring03.R/bn_ring03.R_end/bn_ring03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_thumb01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_thumb01.R/bn_thumb02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_thumb01.R/bn_thumb02.R/bn_thumb03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_thumb01.R/bn_thumb02.R/bn_thumb03.R/bn_thumb03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_shoulder.R/bn_upperarm.R/bn_forearm01.R/bn_forearm02.R/bn_hand.R/bn_thumb01.R/bn_thumb02.R/bn_thumb03.R/bn_thumb03.R_end/bn_thumb03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_spine04
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_spine04/bn_head
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_spine04/bn_head/bn_head_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_spine02/bn_spine03/bn_spine04/bn_head/bn_head_end/bn_head_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.L/bn_shin.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.L/bn_shin.L/bn_foot.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.L/bn_shin.L/bn_foot.L/bn_toe.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.L/bn_shin.L/bn_foot.L/bn_toe.L/bn_toe.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.L/bn_shin.L/bn_foot.L/bn_toe.L/bn_toe.L_end/bn_toe.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.R/bn_shin.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.R/bn_shin.R/bn_foot.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.R/bn_shin.R/bn_foot.R/bn_toe.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.R/bn_shin.R/bn_foot.R/bn_toe.R/bn_toe.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/bn_spine01/bn_thigh.R/bn_shin.R/bn_foot.R/bn_toe.R/bn_toe.R_end/bn_toe.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ctrl-thigh_FK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ctrl-thigh_FK.L/ctrl-shin_FK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ctrl-thigh_FK.L/ctrl-shin_FK.L/ctrl-shin_FK.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ctrl-thigh_FK.L/ctrl-shin_FK.L/ctrl-shin_FK.L_end/ctrl-shin_FK.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ctrl-thigh_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ctrl-thigh_IK.L/MCH-shin_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ctrl-thigh_IK.L/MCH-shin_IK.L/MCH-shin_IK.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ctrl-thigh_IK.L/MCH-shin_IK.L/MCH-shin_IK.L_end/MCH-shin_IK.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/MCH-thigh_IK_stretch.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/MCH-thigh_IK_stretch.L/MCH-thigh_IK_stretch.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/MCH-thigh_IK_stretch.L/MCH-thigh_IK_stretch.L_end/MCH-thigh_IK_stretch.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/MCH-thigh_parent_socket.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/MCH-thigh_parent_socket.L/MCH-thigh_parent_socket.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/MCH-thigh_parent_socket.L/MCH-thigh_parent_socket.L_end/MCH-thigh_parent_socket.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/MCH-foot_FK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/MCH-foot_FK.L/ctrl-foot_FK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/MCH-foot_FK.L/ctrl-foot_FK.L/ctrl-foot_FK.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/MCH-foot_FK.L/ctrl-foot_FK.L/ctrl-foot_FK.L_end/ctrl-foot_FK.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/MCH-shin_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/MCH-shin_tweak.L/ctrl-shin_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/MCH-shin_tweak.L/ctrl-shin_tweak.L/ctrl-shin_tweak.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/MCH-shin_tweak.L/ctrl-shin_tweak.L/ctrl-shin_tweak.L_end/ctrl-shin_tweak.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/MCH-foot_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/MCH-foot_tweak.L/ctrl-foot_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/MCH-foot_tweak.L/ctrl-foot_tweak.L/ctrl-foot_tweak.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/MCH-foot_tweak.L/ctrl-foot_tweak.L/ctrl-foot_tweak.L_end/ctrl-foot_tweak.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/MCH-toe.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/MCH-toe.L/ctrl-toe.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/MCH-toe.L/ctrl-toe.L/ctrl-toe.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/MCH-toe.L/ctrl-toe.L/ctrl-toe.L_end/ctrl-toe.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/ORG-heel_01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/ORG-heel_01.L/ORG-heel_01.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/ORG-heel_01.L/ORG-heel_01.L_end/ORG-heel_01.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/ORG-toe.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/ORG-toe.L/ORG-toe.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.L/ORG-thigh.L/ORG-shin.L/ORG-foot.L/ORG-toe.L/ORG-toe.L_end/ORG-toe.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ctrl-thigh_FK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ctrl-thigh_FK.R/ctrl-shin_FK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ctrl-thigh_FK.R/ctrl-shin_FK.R/ctrl-shin_FK.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ctrl-thigh_FK.R/ctrl-shin_FK.R/ctrl-shin_FK.R_end/ctrl-shin_FK.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ctrl-thigh_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ctrl-thigh_IK.R/MCH-shin_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ctrl-thigh_IK.R/MCH-shin_IK.R/MCH-shin_IK.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ctrl-thigh_IK.R/MCH-shin_IK.R/MCH-shin_IK.R_end/MCH-shin_IK.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/MCH-thigh_IK_stretch.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/MCH-thigh_IK_stretch.R/MCH-thigh_IK_stretch.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/MCH-thigh_IK_stretch.R/MCH-thigh_IK_stretch.R_end/MCH-thigh_IK_stretch.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/MCH-thigh_parent_socket.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/MCH-thigh_parent_socket.R/MCH-thigh_parent_socket.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/MCH-thigh_parent_socket.R/MCH-thigh_parent_socket.R_end/MCH-thigh_parent_socket.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/MCH-foot_FK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/MCH-foot_FK.R/ctrl-foot_FK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/MCH-foot_FK.R/ctrl-foot_FK.R/ctrl-foot_FK.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/MCH-foot_FK.R/ctrl-foot_FK.R/ctrl-foot_FK.R_end/ctrl-foot_FK.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/MCH-shin_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/MCH-shin_tweak.R/ctrl-shin_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/MCH-shin_tweak.R/ctrl-shin_tweak.R/ctrl-shin_tweak.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/MCH-shin_tweak.R/ctrl-shin_tweak.R/ctrl-shin_tweak.R_end/ctrl-shin_tweak.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/MCH-foot_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/MCH-foot_tweak.R/ctrl-foot_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/MCH-foot_tweak.R/ctrl-foot_tweak.R/ctrl-foot_tweak.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/MCH-foot_tweak.R/ctrl-foot_tweak.R/ctrl-foot_tweak.R_end/ctrl-foot_tweak.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/MCH-toe.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/MCH-toe.R/ctrl-toe.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/MCH-toe.R/ctrl-toe.R/ctrl-toe.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/MCH-toe.R/ctrl-toe.R/ctrl-toe.R_end/ctrl-toe.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/ORG-heel_01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/ORG-heel_01.R/ORG-heel_01.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/ORG-heel_01.R/ORG-heel_01.R_end/ORG-heel_01.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/ORG-toe.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/ORG-toe.R/ORG-toe.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_parent.R/ORG-thigh.R/ORG-shin.R/ORG-foot.R/ORG-toe.R/ORG-toe.R_end/ORG-toe.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_tweak.L/ctrl-thigh_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_tweak.L/ctrl-thigh_tweak.L/ctrl-thigh_tweak.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_tweak.L/ctrl-thigh_tweak.L/ctrl-thigh_tweak.L_end/ctrl-thigh_tweak.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_tweak.R/ctrl-thigh_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_tweak.R/ctrl-thigh_tweak.R/ctrl-thigh_tweak.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/MCH-thigh_tweak.R/ctrl-thigh_tweak.R/ctrl-thigh_tweak.R_end/ctrl-thigh_tweak.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_FK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_FK.L/ctrl-forearm_FK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_FK.L/ctrl-forearm_FK.L/MCH-hand_FK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_FK.L/ctrl-forearm_FK.L/MCH-hand_FK.L/ctrl-hand_FK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_FK.L/ctrl-forearm_FK.L/MCH-hand_FK.L/ctrl-hand_FK.L/ctrl-hand_FK.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_FK.L/ctrl-forearm_FK.L/MCH-hand_FK.L/ctrl-hand_FK.L/ctrl-hand_FK.L_end/ctrl-hand_FK.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_IK.L/MCH-forearm_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_IK.L/MCH-forearm_IK.L/MCH-forearm_IK.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ctrl-upperarm_IK.L/MCH-forearm_IK.L/MCH-forearm_IK.L_end/MCH-forearm_IK.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_parent.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_parent.L/MCH-upperarm_IK_stretch.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_parent.L/MCH-upperarm_IK_stretch.L/MCH-upperarm_IK_stretch.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_parent.L/MCH-upperarm_IK_stretch.L/MCH-upperarm_IK_stretch.L_end/MCH-upperarm_IK_stretch.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_parent.L/MCH-upperarm_parent_socket.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_parent.L/MCH-upperarm_parent_socket.L/MCH-upperarm_parent_socket.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_parent.L/MCH-upperarm_parent_socket.L/MCH-upperarm_parent_socket.L_end/MCH-upperarm_parent_socket.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_tweak.L/ctrl-upperarm_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_tweak.L/ctrl-upperarm_tweak.L/ctrl-upperarm_tweak.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/MCH-upperarm_tweak.L/ctrl-upperarm_tweak.L/ctrl-upperarm_tweak.L_end/ctrl-upperarm_tweak.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/MCH-forearm01_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/MCH-forearm01_tweak.L/ctrl-forearm01_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/MCH-forearm01_tweak.L/ctrl-forearm01_tweak.L/ctrl-forearm01_tweak.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/MCH-forearm01_tweak.L/ctrl-forearm01_tweak.L/ctrl-forearm01_tweak.L_end/ctrl-forearm01_tweak.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/MCH-forearm02_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/MCH-forearm02_tweak.L/ctrl-forearm02_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/MCH-forearm02_tweak.L/ctrl-forearm02_tweak.L/ctrl-forearm02_tweak.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/MCH-forearm02_tweak.L/ctrl-forearm02_tweak.L/ctrl-forearm02_tweak.L_end/ctrl-forearm02_tweak.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-index_master.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-index_master.L/ctrl-index_master.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-index_master.L/ctrl-index_master.L_end/ctrl-index_master.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-middle_master.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-middle_master.L/ctrl-middle_master.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-middle_master.L/ctrl-middle_master.L_end/ctrl-middle_master.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-pinky_master.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-pinky_master.L/ctrl-pinky_master.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-pinky_master.L/ctrl-pinky_master.L_end/ctrl-pinky_master.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-ring_master.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-ring_master.L/ctrl-ring_master.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-ring_master.L/ctrl-ring_master.L_end/ctrl-ring_master.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-thumb_master.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-thumb_master.L/ctrl-thumb_master.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ctrl-thumb_master.L/ctrl-thumb_master.L_end/ctrl-thumb_master.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-hand_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-hand_tweak.L/ctrl-hand_tweak.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-hand_tweak.L/ctrl-hand_tweak.L/ctrl-hand_tweak.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-hand_tweak.L/ctrl-hand_tweak.L/ctrl-hand_tweak.L_end/ctrl-hand_tweak.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01.L/MCH-index01.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01.L/MCH-index01.L_end/MCH-index01.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index02.L/MCH-index02.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index02.L/MCH-index02.L_end/MCH-index02.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index03_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index03_drv.L/ctrl-index03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index03_drv.L/ctrl-index03.L/ctrl-index04.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index03_drv.L/ctrl-index03.L/ctrl-index04.L/ctrl-index04.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index03_drv.L/ctrl-index03.L/ctrl-index04.L/ctrl-index04.L_end/ctrl-index04.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index03_drv.L/ctrl-index03.L/MCH-index03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index03_drv.L/ctrl-index03.L/MCH-index03.L/MCH-index03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-index01_drv.L/ctrl-index01.L/MCH-index02_drv.L/ctrl-index02.L/MCH-index03_drv.L/ctrl-index03.L/MCH-index03.L/MCH-index03.L_end/MCH-index03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01.L/MCH-middle01.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01.L/MCH-middle01.L_end/MCH-middle01.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle02.L/MCH-middle02.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle02.L/MCH-middle02.L_end/MCH-middle02.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle03_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle03_drv.L/ctrl-middle03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle03_drv.L/ctrl-middle03.L/ctrl-middle04.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle03_drv.L/ctrl-middle03.L/ctrl-middle04.L/ctrl-middle04.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle03_drv.L/ctrl-middle03.L/ctrl-middle04.L/ctrl-middle04.L_end/ctrl-middle04.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle03_drv.L/ctrl-middle03.L/MCH-middle03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle03_drv.L/ctrl-middle03.L/MCH-middle03.L/MCH-middle03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-middle01_drv.L/ctrl-middle01.L/MCH-middle02_drv.L/ctrl-middle02.L/MCH-middle03_drv.L/ctrl-middle03.L/MCH-middle03.L/MCH-middle03.L_end/MCH-middle03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01.L/MCH-pinky01.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01.L/MCH-pinky01.L_end/MCH-pinky01.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky02.L/MCH-pinky02.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky02.L/MCH-pinky02.L_end/MCH-pinky02.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky03_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky03_drv.L/ctrl-pinky03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky03_drv.L/ctrl-pinky03.L/ctrl-pinky04.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky03_drv.L/ctrl-pinky03.L/ctrl-pinky04.L/ctrl-pinky04.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky03_drv.L/ctrl-pinky03.L/ctrl-pinky04.L/ctrl-pinky04.L_end/ctrl-pinky04.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky03_drv.L/ctrl-pinky03.L/MCH-pinky03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky03_drv.L/ctrl-pinky03.L/MCH-pinky03.L/MCH-pinky03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-pinky01_drv.L/ctrl-pinky01.L/MCH-pinky02_drv.L/ctrl-pinky02.L/MCH-pinky03_drv.L/ctrl-pinky03.L/MCH-pinky03.L/MCH-pinky03.L_end/MCH-pinky03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01.L/MCH-ring01.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01.L/MCH-ring01.L_end/MCH-ring01.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring02.L/MCH-ring02.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring02.L/MCH-ring02.L_end/MCH-ring02.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring03_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring03_drv.L/ctrl-ring03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring03_drv.L/ctrl-ring03.L/ctrl-ring04.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring03_drv.L/ctrl-ring03.L/ctrl-ring04.L/ctrl-ring04.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring03_drv.L/ctrl-ring03.L/ctrl-ring04.L/ctrl-ring04.L_end/ctrl-ring04.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring03_drv.L/ctrl-ring03.L/MCH-ring03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring03_drv.L/ctrl-ring03.L/MCH-ring03.L/MCH-ring03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-ring01_drv.L/ctrl-ring01.L/MCH-ring02_drv.L/ctrl-ring02.L/MCH-ring03_drv.L/ctrl-ring03.L/MCH-ring03.L/MCH-ring03.L_end/MCH-ring03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01.L/MCH-thumb01.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01.L/MCH-thumb01.L_end/MCH-thumb01.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb02.L/MCH-thumb02.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb02.L/MCH-thumb02.L_end/MCH-thumb02.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb03_drv.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb03_drv.L/ctrl-thumb03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb03_drv.L/ctrl-thumb03.L/ctrl-thumb04.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb03_drv.L/ctrl-thumb03.L/ctrl-thumb04.L/ctrl-thumb04.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb03_drv.L/ctrl-thumb03.L/ctrl-thumb04.L/ctrl-thumb04.L_end/ctrl-thumb04.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb03_drv.L/ctrl-thumb03.L/MCH-thumb03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb03_drv.L/ctrl-thumb03.L/MCH-thumb03.L/MCH-thumb03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/MCH-thumb01_drv.L/ctrl-thumb01.L/MCH-thumb02_drv.L/ctrl-thumb02.L/MCH-thumb03_drv.L/ctrl-thumb03.L/MCH-thumb03.L/MCH-thumb03.L_end/MCH-thumb03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-index01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-index01.L/ORG-index02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-index01.L/ORG-index02.L/ORG-index03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-index01.L/ORG-index02.L/ORG-index03.L/ORG-index03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-index01.L/ORG-index02.L/ORG-index03.L/ORG-index03.L_end/ORG-index03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-middle01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-middle01.L/ORG-middle02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-middle01.L/ORG-middle02.L/ORG-middle03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-middle01.L/ORG-middle02.L/ORG-middle03.L/ORG-middle03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-middle01.L/ORG-middle02.L/ORG-middle03.L/ORG-middle03.L_end/ORG-middle03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-pinky01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-pinky01.L/ORG-pinky02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-pinky01.L/ORG-pinky02.L/ORG-pinky03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-pinky01.L/ORG-pinky02.L/ORG-pinky03.L/ORG-pinky03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-pinky01.L/ORG-pinky02.L/ORG-pinky03.L/ORG-pinky03.L_end/ORG-pinky03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-ring01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-ring01.L/ORG-ring02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-ring01.L/ORG-ring02.L/ORG-ring03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-ring01.L/ORG-ring02.L/ORG-ring03.L/ORG-ring03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-ring01.L/ORG-ring02.L/ORG-ring03.L/ORG-ring03.L_end/ORG-ring03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-thumb01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-thumb01.L/ORG-thumb02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-thumb01.L/ORG-thumb02.L/ORG-thumb03.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-thumb01.L/ORG-thumb02.L/ORG-thumb03.L/ORG-thumb03.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.L/ORG-upperarm.L/ORG-forearm.L/ORG-hand.L/ORG-thumb01.L/ORG-thumb02.L/ORG-thumb03.L/ORG-thumb03.L_end/ORG-thumb03.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_FK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_FK.R/ctrl-forearm_FK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_FK.R/ctrl-forearm_FK.R/MCH-hand_FK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_FK.R/ctrl-forearm_FK.R/MCH-hand_FK.R/ctrl-hand_FK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_FK.R/ctrl-forearm_FK.R/MCH-hand_FK.R/ctrl-hand_FK.R/ctrl-hand_FK.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_FK.R/ctrl-forearm_FK.R/MCH-hand_FK.R/ctrl-hand_FK.R/ctrl-hand_FK.R_end/ctrl-hand_FK.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_IK.R/MCH-forearm_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_IK.R/MCH-forearm_IK.R/MCH-forearm_IK.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ctrl-upperarm_IK.R/MCH-forearm_IK.R/MCH-forearm_IK.R_end/MCH-forearm_IK.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_parent.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_parent.R/MCH-upperarm_IK_stretch.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_parent.R/MCH-upperarm_IK_stretch.R/MCH-upperarm_IK_stretch.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_parent.R/MCH-upperarm_IK_stretch.R/MCH-upperarm_IK_stretch.R_end/MCH-upperarm_IK_stretch.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_parent.R/MCH-upperarm_parent_socket.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_parent.R/MCH-upperarm_parent_socket.R/MCH-upperarm_parent_socket.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_parent.R/MCH-upperarm_parent_socket.R/MCH-upperarm_parent_socket.R_end/MCH-upperarm_parent_socket.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_tweak.R/ctrl-upperarm_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_tweak.R/ctrl-upperarm_tweak.R/ctrl-upperarm_tweak.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/MCH-upperarm_tweak.R/ctrl-upperarm_tweak.R/ctrl-upperarm_tweak.R_end/ctrl-upperarm_tweak.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/MCH-forearm01_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/MCH-forearm01_tweak.R/ctrl-forearm01_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/MCH-forearm01_tweak.R/ctrl-forearm01_tweak.R/ctrl-forearm01_tweak.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/MCH-forearm01_tweak.R/ctrl-forearm01_tweak.R/ctrl-forearm01_tweak.R_end/ctrl-forearm01_tweak.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/MCH-forearm02_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/MCH-forearm02_tweak.R/ctrl-forearm02_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/MCH-forearm02_tweak.R/ctrl-forearm02_tweak.R/ctrl-forearm02_tweak.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/MCH-forearm02_tweak.R/ctrl-forearm02_tweak.R/ctrl-forearm02_tweak.R_end/ctrl-forearm02_tweak.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-index_master.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-index_master.R/ctrl-index_master.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-index_master.R/ctrl-index_master.R_end/ctrl-index_master.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-middle_master.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-middle_master.R/ctrl-middle_master.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-middle_master.R/ctrl-middle_master.R_end/ctrl-middle_master.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-pinky_master.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-pinky_master.R/ctrl-pinky_master.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-pinky_master.R/ctrl-pinky_master.R_end/ctrl-pinky_master.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-ring_master.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-ring_master.R/ctrl-ring_master.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-ring_master.R/ctrl-ring_master.R_end/ctrl-ring_master.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-thumb_master.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-thumb_master.R/ctrl-thumb_master.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ctrl-thumb_master.R/ctrl-thumb_master.R_end/ctrl-thumb_master.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-hand_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-hand_tweak.R/ctrl-hand_tweak.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-hand_tweak.R/ctrl-hand_tweak.R/ctrl-hand_tweak.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-hand_tweak.R/ctrl-hand_tweak.R/ctrl-hand_tweak.R_end/ctrl-hand_tweak.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01.R/MCH-index01.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01.R/MCH-index01.R_end/MCH-index01.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index02.R/MCH-index02.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index02.R/MCH-index02.R_end/MCH-index02.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index03_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index03_drv.R/ctrl-index03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index03_drv.R/ctrl-index03.R/ctrl-index04.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index03_drv.R/ctrl-index03.R/ctrl-index04.R/ctrl-index04.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index03_drv.R/ctrl-index03.R/ctrl-index04.R/ctrl-index04.R_end/ctrl-index04.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index03_drv.R/ctrl-index03.R/MCH-index03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index03_drv.R/ctrl-index03.R/MCH-index03.R/MCH-index03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-index01_drv.R/ctrl-index01.R/MCH-index02_drv.R/ctrl-index02.R/MCH-index03_drv.R/ctrl-index03.R/MCH-index03.R/MCH-index03.R_end/MCH-index03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01.R/MCH-middle01.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01.R/MCH-middle01.R_end/MCH-middle01.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle02.R/MCH-middle02.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle02.R/MCH-middle02.R_end/MCH-middle02.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle03_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle03_drv.R/ctrl-middle03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle03_drv.R/ctrl-middle03.R/ctrl-middle04.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle03_drv.R/ctrl-middle03.R/ctrl-middle04.R/ctrl-middle04.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle03_drv.R/ctrl-middle03.R/ctrl-middle04.R/ctrl-middle04.R_end/ctrl-middle04.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle03_drv.R/ctrl-middle03.R/MCH-middle03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle03_drv.R/ctrl-middle03.R/MCH-middle03.R/MCH-middle03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-middle01_drv.R/ctrl-middle01.R/MCH-middle02_drv.R/ctrl-middle02.R/MCH-middle03_drv.R/ctrl-middle03.R/MCH-middle03.R/MCH-middle03.R_end/MCH-middle03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01.R/MCH-pinky01.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01.R/MCH-pinky01.R_end/MCH-pinky01.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky02.R/MCH-pinky02.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky02.R/MCH-pinky02.R_end/MCH-pinky02.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky03_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky03_drv.R/ctrl-pinky03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky03_drv.R/ctrl-pinky03.R/ctrl-pinky04.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky03_drv.R/ctrl-pinky03.R/ctrl-pinky04.R/ctrl-pinky04.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky03_drv.R/ctrl-pinky03.R/ctrl-pinky04.R/ctrl-pinky04.R_end/ctrl-pinky04.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky03_drv.R/ctrl-pinky03.R/MCH-pinky03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky03_drv.R/ctrl-pinky03.R/MCH-pinky03.R/MCH-pinky03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-pinky01_drv.R/ctrl-pinky01.R/MCH-pinky02_drv.R/ctrl-pinky02.R/MCH-pinky03_drv.R/ctrl-pinky03.R/MCH-pinky03.R/MCH-pinky03.R_end/MCH-pinky03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01.R/MCH-ring01.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01.R/MCH-ring01.R_end/MCH-ring01.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring02.R/MCH-ring02.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring02.R/MCH-ring02.R_end/MCH-ring02.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring03_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring03_drv.R/ctrl-ring03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring03_drv.R/ctrl-ring03.R/ctrl-ring04.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring03_drv.R/ctrl-ring03.R/ctrl-ring04.R/ctrl-ring04.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring03_drv.R/ctrl-ring03.R/ctrl-ring04.R/ctrl-ring04.R_end/ctrl-ring04.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring03_drv.R/ctrl-ring03.R/MCH-ring03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring03_drv.R/ctrl-ring03.R/MCH-ring03.R/MCH-ring03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-ring01_drv.R/ctrl-ring01.R/MCH-ring02_drv.R/ctrl-ring02.R/MCH-ring03_drv.R/ctrl-ring03.R/MCH-ring03.R/MCH-ring03.R_end/MCH-ring03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01.R/MCH-thumb01.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01.R/MCH-thumb01.R_end/MCH-thumb01.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb02.R/MCH-thumb02.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb02.R/MCH-thumb02.R_end/MCH-thumb02.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb03_drv.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb03_drv.R/ctrl-thumb03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb03_drv.R/ctrl-thumb03.R/ctrl-thumb04.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb03_drv.R/ctrl-thumb03.R/ctrl-thumb04.R/ctrl-thumb04.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb03_drv.R/ctrl-thumb03.R/ctrl-thumb04.R/ctrl-thumb04.R_end/ctrl-thumb04.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb03_drv.R/ctrl-thumb03.R/MCH-thumb03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb03_drv.R/ctrl-thumb03.R/MCH-thumb03.R/MCH-thumb03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/MCH-thumb01_drv.R/ctrl-thumb01.R/MCH-thumb02_drv.R/ctrl-thumb02.R/MCH-thumb03_drv.R/ctrl-thumb03.R/MCH-thumb03.R/MCH-thumb03.R_end/MCH-thumb03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-index01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-index01.R/ORG-index02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-index01.R/ORG-index02.R/ORG-index03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-index01.R/ORG-index02.R/ORG-index03.R/ORG-index03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-index01.R/ORG-index02.R/ORG-index03.R/ORG-index03.R_end/ORG-index03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-middle01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-middle01.R/ORG-middle02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-middle01.R/ORG-middle02.R/ORG-middle03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-middle01.R/ORG-middle02.R/ORG-middle03.R/ORG-middle03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-middle01.R/ORG-middle02.R/ORG-middle03.R/ORG-middle03.R_end/ORG-middle03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-pinky01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-pinky01.R/ORG-pinky02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-pinky01.R/ORG-pinky02.R/ORG-pinky03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-pinky01.R/ORG-pinky02.R/ORG-pinky03.R/ORG-pinky03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-pinky01.R/ORG-pinky02.R/ORG-pinky03.R/ORG-pinky03.R_end/ORG-pinky03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-ring01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-ring01.R/ORG-ring02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-ring01.R/ORG-ring02.R/ORG-ring03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-ring01.R/ORG-ring02.R/ORG-ring03.R/ORG-ring03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-ring01.R/ORG-ring02.R/ORG-ring03.R/ORG-ring03.R_end/ORG-ring03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-thumb01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-thumb01.R/ORG-thumb02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-thumb01.R/ORG-thumb02.R/ORG-thumb03.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-thumb01.R/ORG-thumb02.R/ORG-thumb03.R/ORG-thumb03.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-shoulder.R/ORG-upperarm.R/ORG-forearm.R/ORG-hand.R/ORG-thumb01.R/ORG-thumb02.R/ORG-thumb03.R/ORG-thumb03.R_end/ORG-thumb03.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-spine04
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-spine04/ORG-head
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-spine04/ORG-head/ORG-head_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/ORG-spine01/ORG-spine02/ORG-spine03/ORG-spine04/ORG-head/ORG-head_end/ORG-head_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/rig-properties
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/rig-properties/rig-properties_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/rig-properties/rig-properties_end/rig-properties_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-elbow_pole.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-elbow_pole.L/VIS-elbow_pole.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-elbow_pole.L/VIS-elbow_pole.L_end/VIS-elbow_pole.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-elbow_pole.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-elbow_pole.R/VIS-elbow_pole.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-elbow_pole.R/VIS-elbow_pole.R_end/VIS-elbow_pole.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-knee_pole.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-knee_pole.L/VIS-knee_pole.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-knee_pole.L/VIS-knee_pole.L_end/VIS-knee_pole.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-knee_pole.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-knee_pole.R/VIS-knee_pole.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/ctrl-root/VIS-knee_pole.R/VIS-knee_pole.R_end/VIS-knee_pole.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-elbow_IK_parent.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-elbow_IK_parent.L/ctrl-elbow_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-elbow_IK_parent.L/ctrl-elbow_IK.L/ctrl-elbow_IK.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-elbow_IK_parent.L/ctrl-elbow_IK.L/ctrl-elbow_IK.L_end/ctrl-elbow_IK.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-elbow_IK_parent.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-elbow_IK_parent.R/ctrl-elbow_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-elbow_IK_parent.R/ctrl-elbow_IK.R/ctrl-elbow_IK.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-elbow_IK_parent.R/ctrl-elbow_IK.R/ctrl-elbow_IK.R_end/ctrl-elbow_IK.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_heel_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_heel_IK.L/ctrl-foot_heel_IK.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_heel_IK.L/ctrl-foot_heel_IK.L_end/ctrl-foot_heel_IK.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_spin_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_spin_IK.L/MCH-heel_01_rock02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_spin_IK.L/MCH-heel_01_rock02.L/MCH-heel_01_rock01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_spin_IK.L/MCH-heel_01_rock02.L/MCH-heel_01_rock01.L/MCH-heel_01_roll02.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_spin_IK.L/MCH-heel_01_rock02.L/MCH-heel_01_rock01.L/MCH-heel_01_roll02.L/MCH-heel_01_roll01.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_spin_IK.L/MCH-heel_01_rock02.L/MCH-heel_01_rock01.L/MCH-heel_01_roll02.L/MCH-heel_01_roll01.L/MCH-foot_roll.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_spin_IK.L/MCH-heel_01_rock02.L/MCH-heel_01_rock01.L/MCH-heel_01_roll02.L/MCH-heel_01_roll01.L/MCH-foot_roll.L/MCH-thigh_IK_target.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_spin_IK.L/MCH-heel_01_rock02.L/MCH-heel_01_rock01.L/MCH-heel_01_roll02.L/MCH-heel_01_roll01.L/MCH-foot_roll.L/MCH-thigh_IK_target.L/MCH-thigh_IK_target.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.L/ctrl-foot_IK.L/ctrl-foot_spin_IK.L/MCH-heel_01_rock02.L/MCH-heel_01_rock01.L/MCH-heel_01_roll02.L/MCH-heel_01_roll01.L/MCH-foot_roll.L/MCH-thigh_IK_target.L/MCH-thigh_IK_target.L_end/MCH-thigh_IK_target.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_heel_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_heel_IK.R/ctrl-foot_heel_IK.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_heel_IK.R/ctrl-foot_heel_IK.R_end/ctrl-foot_heel_IK.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_spin_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_spin_IK.R/MCH-heel_01_rock02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_spin_IK.R/MCH-heel_01_rock02.R/MCH-heel_01_rock01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_spin_IK.R/MCH-heel_01_rock02.R/MCH-heel_01_rock01.R/MCH-heel_01_roll02.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_spin_IK.R/MCH-heel_01_rock02.R/MCH-heel_01_rock01.R/MCH-heel_01_roll02.R/MCH-heel_01_roll01.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_spin_IK.R/MCH-heel_01_rock02.R/MCH-heel_01_rock01.R/MCH-heel_01_roll02.R/MCH-heel_01_roll01.R/MCH-foot_roll.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_spin_IK.R/MCH-heel_01_rock02.R/MCH-heel_01_rock01.R/MCH-heel_01_roll02.R/MCH-heel_01_roll01.R/MCH-foot_roll.R/MCH-thigh_IK_target.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_spin_IK.R/MCH-heel_01_rock02.R/MCH-heel_01_rock01.R/MCH-heel_01_roll02.R/MCH-heel_01_roll01.R/MCH-foot_roll.R/MCH-thigh_IK_target.R/MCH-thigh_IK_target.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-foot_IK_parent.R/ctrl-foot_IK.R/ctrl-foot_spin_IK.R/MCH-heel_01_rock02.R/MCH-heel_01_rock01.R/MCH-heel_01_roll02.R/MCH-heel_01_roll01.R/MCH-foot_roll.R/MCH-thigh_IK_target.R/MCH-thigh_IK_target.R_end/MCH-thigh_IK_target.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.L/ctrl-hand_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.L/ctrl-hand_IK.L/MCH-upperarm_IK_target.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.L/ctrl-hand_IK.L/MCH-upperarm_IK_target.L/MCH-upperarm_IK_target.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.L/ctrl-hand_IK.L/MCH-upperarm_IK_target.L/MCH-upperarm_IK_target.L_end/MCH-upperarm_IK_target.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.R/ctrl-hand_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.R/ctrl-hand_IK.R/MCH-upperarm_IK_target.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.R/ctrl-hand_IK.R/MCH-upperarm_IK_target.R/MCH-upperarm_IK_target.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-hand_IK_parent.R/ctrl-hand_IK.R/MCH-upperarm_IK_target.R/MCH-upperarm_IK_target.R_end/MCH-upperarm_IK_target.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-knee_IK_parent.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-knee_IK_parent.L/ctrl-knee_IK.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-knee_IK_parent.L/ctrl-knee_IK.L/ctrl-knee_IK.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-knee_IK_parent.L/ctrl-knee_IK.L/ctrl-knee_IK.L_end/ctrl-knee_IK.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-knee_IK_parent.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-knee_IK_parent.R/ctrl-knee_IK.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-knee_IK_parent.R/ctrl-knee_IK.R/ctrl-knee_IK.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-knee_IK_parent.R/ctrl-knee_IK.R/ctrl-knee_IK.R_end/ctrl-knee_IK.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/ctrl-chest
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/ctrl-chest/ctrl-chest_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/ctrl-chest/ctrl-chest_end/ctrl-chest_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/ctrl-hips
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/ctrl-hips/ctrl-hips_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/ctrl-hips/ctrl-hips_end/ctrl-hips_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK/ctrl-spine01_tweak
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK/ctrl-spine01_tweak/ctrl-spine01_tweak_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK/ctrl-spine01_tweak/ctrl-spine01_tweak_end/ctrl-spine01_tweak_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK/ctrl-spine02_tweak
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK/ctrl-spine02_tweak/ctrl-spine02_tweak_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK/ctrl-spine02_tweak/ctrl-spine02_tweak_end/ctrl-spine02_tweak_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK/MCH-WGT-hips
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK/MCH-WGT-hips/MCH-WGT-hips_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine01/ctrl-spine01_FK/MCH-WGT-hips/MCH-WGT-hips_end/MCH-WGT-hips_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/ctrl-shoulder.L
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/ctrl-shoulder.L/ctrl-shoulder.L_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/ctrl-shoulder.L/ctrl-shoulder.L_end/ctrl-shoulder.L_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/ctrl-shoulder.R
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/ctrl-shoulder.R/ctrl-shoulder.R_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/ctrl-shoulder.R/ctrl-shoulder.R_end/ctrl-shoulder.R_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-pivot
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-pivot/MCH-pivot_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-pivot/MCH-pivot_end/MCH-pivot_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/ctrl-spine03_tweak
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/ctrl-spine03_tweak/ctrl-spine03_tweak_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/ctrl-spine03_tweak/ctrl-spine03_tweak_end/ctrl-spine03_tweak_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-ROT_neck
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-ROT_neck/ctrl-neck
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-ROT_neck/ctrl-neck/ctrl-spine04_tweak
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-ROT_neck/ctrl-neck/ctrl-spine04_tweak/ctrl-spine04_tweak_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-ROT_neck/ctrl-neck/ctrl-spine04_tweak/ctrl-spine04_tweak_end/ctrl-spine04_tweak_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-ROT_neck/ctrl-neck/MCH-ROT_head
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-ROT_neck/ctrl-neck/MCH-ROT_head/ctrl-head
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-ROT_neck/ctrl-neck/MCH-ROT_head/ctrl-head/ctrl-head_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-ROT_neck/ctrl-neck/MCH-ROT_head/ctrl-head/ctrl-head_end/ctrl-head_end_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-WGT-chest
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-WGT-chest/MCH-WGT-chest_end
+    m_Weight: 1
+  - m_Path: Rig_Nendoroid_A/MCH-torse_parent/ctrl-torse/MCH-spine02/ctrl-spine02_FK/MCH-spine03/ctrl-spine03_FK/MCH-WGT-chest/MCH-WGT-chest_end/MCH-WGT-chest_end_end
+    m_Weight: 1

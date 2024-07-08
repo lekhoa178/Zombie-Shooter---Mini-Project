@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6301089567a3004b85dba6f37f67599, type: 3}
+  m_Name: AR
+  m_EditorClassIdentifier: 
+  <WeaponPrefab>k__BackingField: {fileID: 0}
+  <Type>k__BackingField: 0
+  <Sprite>k__BackingField: {fileID: 21300000, guid: d09f8f499bf311c4ba5b210d2fc52e49,
+    type: 3}
+  <BulletPrefab>k__BackingField: {fileID: 11400000, guid: c6d5a3ff3f671b84084f1719654e6f94,
+    type: 2}
+  <ExplodePrefab>k__BackingField: {fileID: 11400000, guid: 69fc49f05900ed6469c7bf4a38217ec2,
+    type: 2}
+  <BulletSpeed>k__BackingField: 10
+  <Damage>k__BackingField: 1
+  <ReloadTime>k__BackingField: 0.1
+  <DstToDestroy>k__BackingField: 10
+  <Radius>k__BackingField: 0.2
+  <Sustain>k__BackingField: 0
