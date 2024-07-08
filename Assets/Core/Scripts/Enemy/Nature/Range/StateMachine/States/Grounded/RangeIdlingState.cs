@@ -17,7 +17,14 @@ public class RangeIdlingState : RangeGroundedState
 
         StartAnimation(stateMachine.Enemy.AnimationData.IdleParameterHash);
 
-        stateMachine.Enemy.Agent.SetDestination(stateMachine.Enemy.transform.position);
+        try
+        {
+            stateMachine.Enemy.Agent.SetDestination(stateMachine.Enemy.transform.position);
+        }
+        catch
+        {
+            Debug.Log("Warning from pooling init");
+        }
     }
 
     public override void Exit()

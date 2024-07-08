@@ -65,6 +65,8 @@ public class LevelManager : MonoBehaviour
         SceneManager.sceneLoaded += OnSceneLoaded;
 
         Generator = GetComponent<MapGenerator>();
+
+        Application.targetFrameRate = 100;
     }
 
     public void ResetState()

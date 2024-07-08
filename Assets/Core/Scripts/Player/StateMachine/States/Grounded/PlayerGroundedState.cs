@@ -52,43 +52,38 @@ public class PlayerGroundedState : PlayerState
 
     protected virtual void RotateTowardsCursor(bool immediate = false)
     {
-        if (Time.frameCount > startCount + delayToStartCast || immediate)
+        ray = stateMachine.Player.Camera.ScreenPointToRay(Input.mousePosition);
+
+        if (Physics.Raycast(ray, out hit, 100f, stateMachine.Player.LayerData.RaycastLayer))
         {
-            ray = stateMachine.Player.Camera.ScreenPointToRay(Input.mousePosition);
+            stateMachine.ReusableData.RayCastPoint = hit.point;
 
-            if (Physics.Raycast(ray, out hit, 100f, stateMachine.Player.LayerData.RaycastLayer))
-            {
-                stateMachine.ReusableData.RayCastPoint = hit.point;
+            Vector2 dir;
+            Vector2 movement = new Vector2(
+                stateMachine.ReusableData.MovementInput.x,
+                stateMachine.ReusableData.MovementInput.y);
 
-                Vector2 dir;
-                Vector2 movement = new Vector2(
-                    stateMachine.ReusableData.MovementInput.x,
-                    stateMachine.ReusableData.MovementInput.y);
+            dir.x = -hit.point.x + stateMachine.Player.transform.position.x;
+            dir.y = -hit.point.z + stateMachine.Player.transform.position.z;
 
-                dir.x = -hit.point.x + stateMachine.Player.transform.position.x;
-                dir.y = -hit.point.z + stateMachine.Player.transform.position.z;
+            dir.Normalize();
 
-                dir.Normalize();
+            float angle = Mathf.Atan2(dir.y, dir.x);
 
-                float angle = Mathf.Atan2(dir.y, dir.x);
+            float cosAngle = Mathf.Cos(-angle);
+            float sinAngle = Mathf.Sin(-angle);
 
-                float cosAngle = Mathf.Cos(-angle);
-                float sinAngle = Mathf.Sin(-angle);
+            float velX = -(movement.x * sinAngle + movement.y * cosAngle);
+            float velY = (movement.x * cosAngle - movement.y * sinAngle);
 
-                float velX = -(movement.x * sinAngle + movement.y * cosAngle);
-                float velY = (movement.x * cosAngle - movement.y * sinAngle);
+            Quaternion targetRotation = Quaternion.LookRotation(new Vector3(-dir.x, 0, -dir.y));
+            stateMachine.Player.PlayerRendering.transform.rotation = targetRotation;
 
-                Quaternion targetRotation = Quaternion.LookRotation(new Vector3(-dir.x, 0, -dir.y));
-                stateMachine.Player.PlayerRendering.transform.rotation = targetRotation;
-
-                stateMachine.Player.Animator.SetFloat(stateMachine.Player.AnimationData.VelocityXParameterHash, velX);
-                stateMachine.Player.Animator.SetFloat(stateMachine.Player.AnimationData.VelocityZParameterHash, velY);
-
-            }
-
-            startCount = Time.frameCount;
+            stateMachine.Player.Animator.SetFloat(stateMachine.Player.AnimationData.VelocityXParameterHash, velX);
+            stateMachine.Player.Animator.SetFloat(stateMachine.Player.AnimationData.VelocityZParameterHash, velY);
 
         }
+
 
     }
 

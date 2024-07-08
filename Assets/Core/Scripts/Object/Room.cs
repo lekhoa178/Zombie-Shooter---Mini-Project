@@ -5,7 +5,6 @@ using Unity.AI.Navigation;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.AI;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class Room : MonoBehaviour
 {
